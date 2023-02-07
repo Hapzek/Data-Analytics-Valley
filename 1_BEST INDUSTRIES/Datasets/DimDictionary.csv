@@ -1,0 +1,17 @@
+NEW CODE,OLD CODE,BRIEF DESCRIPTION,MAGNITUDE
+YEAR,ANIO,Year of the data.,"Time, Year"
+DIR EMP(M),H010B,Direct male employees.,Number of employees.
+DIR EMP(F),H010C,Direct female employees.,Number of employees.
+IND EMP(M),I100B,Indirect male employees.,Number of employees.
+IND EMP(F),I100C,Indirect female employees.,Number of employees.
+DIR HOURS ,H010D,"Worked hours by DIRECT employees, both genders.","Time, hours."
+IND HOURS ,I100D,"Worked hours by INDIRECT employees, both genders.","Time, hours."
+TCOMP DIR(USD),J000A,Total compensations to DIRECT employees.,"Currency, USD."
+TCOMP IND(USD),K610A,Total compensations to INDIRECT employees.,"Currency, USD."
+TWPRODUCTS(USD) ,O110A,Total worth of products made with own raw material.,"Currency, USD."
+TSALES NATIONAL(USD),M310B,National. Total sales of products made with own raw material.,"Currency, USD."
+TSALES EXPORT(USD),M310C,Exports. Total sales of products made with own raw material.,"Currency, USD."
+NUMBER TECH DEVICES,Q400A,Number of tech. devices.,Number of devices.
+TWMACHINERY(USD),Q100A,Worth of all machinery and production equipment.,"Currency, USD."
+TCELECT ENERGY(USD),K412A,Cost of electrical energy consumption.,"Currency, USD."
+INDUSTRYKEY,CODIGO_SCIAN,Key code of the industry.,Numerical code
