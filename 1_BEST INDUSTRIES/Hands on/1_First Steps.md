@@ -15,7 +15,7 @@ https://www.inegi.org.mx/datosabiertos/
     <img src="https://i.ibb.co/VHqfPDw/1-1-INEGI.png">
 </div>
 
-I choosed this dataset because it contains information about the numbers of employees per industry, worked hours, how much worth does a certain industry produces with his own raw material, etc. 
+I chosed this dataset because it contains information about the numbers of employees per industry, worked hours, how much worth does a certain industry produces with his own raw material, etc. 
 
 
 ### Exploring Data
