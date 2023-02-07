@@ -4,7 +4,7 @@
 ### On going projects:
 1. **Best Industries**
 
-  México is a great country to live, but it's not a secret it can be harsh to land a dream job. This project is meant to underly the best industries to work on.
+  México is a great country to live, but it's not a secret it can be harsh to land a dream job. This project is meant to underly the best industries to work at.
   
   I'll use data from a goverment institution, clean it, analyze it and create a dashboard using the following technologies: Python and Power BI.
 
